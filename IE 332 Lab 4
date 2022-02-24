@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>My IE 332 Calculator!</title>
+</head>
+
+<body>
+
+<h1>My IE 332 Calculator!</h1>
+
+<form>
+<table border = 1>
+  <tr><td> Assignment 1 percent: <input type = "text" size = 5 name "A1pot"> </td><td> base: <input type = "text" size = 5 name = "A1base">
+  </td><td> actual: <input type = "text" size = 5 name = "A1act"> </td></tr>
+  
+  <tr><td> Assignment 2 percent: <input type = "text" size = 5 name "A2pot"> </td><td> base: <input type = "text" size = 5 name = "A2base">
+  </td><td> actual: <input type = "text" size = 5 name = "A2act"> </td></tr>
+  
+  <tr><td> Assignment 3 percent: <input type = "text" size = 5 name "A3pot"> </td><td> base: <input type = "text" size = 5 name = "A3base">
+  </td><td> actual: <input type = "text" size = 5 name = "A3act"> </td></tr>
+</table>
+
+<br>
+
+<table border = 1>
+  <tr><td> Quiz 1 percent: <input type = "text" size = 5 name "Q1pot"> </td><td> base: <input type = "text" size = 5 name = "Q1base">
+  </td><td> actual: <input type = "text" size = 5 name = "Q1act"> </td></tr>
+  
+  <tr><td> Quiz 2 percent: <input type = "text" size = 5 name "Q2pot"> </td><td> base: <input type = "text" size = 5 name = "Q2base">
+  </td><td> actual: <input type = "text" size = 5 name = "Q2act"> </td></tr>
+  
+  <tr><td> Quiz 3 percent: <input type = "text" size = 5 name "Q3pot"> </td><td> base: <input type = "text" size = 5 name = "Q3base">
+  </td><td> actual: <input type = "text" size = 5 name = "Q3act"> </td></tr>
+</table>
+
+<br>
+
+<table border = 1>
+  <tr><td> Exam 1 percent: <input type = "text" size = 5 name "E1pot"> </td><td> base: <input type = "text" size = 5 name = "E1base">
+  </td><td> actual: <input type = "text" size = 5 name = "E1act"> </td></tr>
+  
+  <tr><td> Exam 2 percent: <input type = "text" size = 5 name "E2pot"> </td><td> base: <input type = "text" size = 5 name = "E2base">
+  </td><td> actual: <input type = "text" size = 5 name = "E2act"> </td></tr>
+  
+  <tr><td> Exam 3 percent: <input type = "text" size = 5 name "E3pot"> </td><td> base: <input type = "text" size = 5 name = "E3base">
+  </td><td> actual: <input type = "text" size = 5 name = "E3act"> </td></tr>
+</table>
+
+<br>
+
+<table border = 1>
+  <tr><td> Project percent: <input type = "text" size = 5 name "Ppot"> </td><td> base: <input type = "text" size = 5 name = "Pbase">
+  </td><td> actual: <input type = "text" size = 5 name = "Pact"> </td></tr>
+  
+  <tr><td> Bonus percent: <input type = "text" size = 5 name "Bpot"> </td><td> base: <input type = "text" size = 5 name = "Bbase">
+  </td><td> actual: <input type = "text" size = 5 name = "Bact"> </td></tr>
+  
+
+</table>
+
+<br>
+
+<input type = "submit" value = "Submit Here">
+</form>
+
+</body>
+
+</html>
